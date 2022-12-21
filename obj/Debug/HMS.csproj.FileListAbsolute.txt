@@ -1,0 +1,11 @@
+D:\Huraira\C#\HMS\bin\Debug\HMS.exe.config
+D:\Huraira\C#\HMS\bin\Debug\HMS.exe
+D:\Huraira\C#\HMS\bin\Debug\HMS.pdb
+D:\Huraira\C#\HMS\obj\Debug\HMS.Form1.resources
+D:\Huraira\C#\HMS\obj\Debug\HMS.Properties.Resources.resources
+D:\Huraira\C#\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+D:\Huraira\C#\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+D:\Huraira\C#\HMS\obj\Debug\HMS.exe
+D:\Huraira\C#\HMS\obj\Debug\HMS.pdb
+D:\Huraira\C#\HMS\obj\Debug\HMS.Dashboard.resources
+D:\Huraira\C#\HMS\obj\Debug\HMS.csprojAssemblyReference.cache
